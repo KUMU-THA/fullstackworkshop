@@ -1,0 +1,59 @@
+# Full Stack Workshop
+
+This repository contains various tasks and exercises completed as part of the Full Stack Workshop. Each task focuses on different aspects of web development, such as HTML, CSS, JavaScript, and other front-end and back-end technologies.
+
+## Task 1: HTML Basics
+
+### Objective
+In this task, I created a simple HTML webpage that includes:
+- A heading using `<h1>` tag
+- Two paragraphs of text using `<p>` tags
+- An unordered list using `<ul>` and `<li>` tags
+- An ordered list by replacing `<ul>` with `<ol>`
+- An image using the `<img>` tag
+
+### Files
+- `first_page.html`: The HTML file demonstrating the use of basic HTML tags, including `<h1>`, `<p>`, `<ul>`, `<ol>`, and `<img>`.
+
+### Instructions to View
+1. Clone this repository to your local machine.
+2. Open `first_page.html` in a web browser to see the webpage.
+
+## Task 2: JavaScript Multiplication and Division
+
+### Objective
+In this task, I created a JavaScript program to perform multiplication and division of two numbers. The program takes two user inputs and outputs the results of their multiplication and division.
+
+### Files
+- `multiplication_division.js`: The JavaScript file containing the program for performing multiplication and division.
+
+### Instructions to View
+1. Clone this repository to your local machine.
+2. Open `multiplication_division.js` in any text editor or IDE.
+3. Run the program in a browser or using a JavaScript runtime like Node.js to input two numbers and get the multiplication and division results.
+
+## Commands
+
+Here are some useful commands for working with this repository:
+
+```bash
+# Clone the repository to your local machine
+git clone https://github.com/KUMU-THA/fullstackworkshop.git
+
+# Navigate into the repository folder
+cd fullstackworkshop
+
+# Check the status of your repository
+git status
+
+# Add changes to the staging area
+git add .
+
+# Commit changes with a message
+git commit -m "Completed Task 2: JavaScript Program for Multiplication and Division"
+
+# Push the changes to GitHub
+git push origin main
+
+# Pull the latest changes from GitHub
+git pull origin main
